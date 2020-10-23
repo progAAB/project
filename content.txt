@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes clear-branch
+=======
+changes cherry-branch
+>>>>>>> cf9d63d... initial content.txt
